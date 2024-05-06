@@ -1,4 +1,4 @@
-import document
+# import document
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -7,7 +7,7 @@ import ausgabe
 
 if __name__ == "__main__":
 
-    #abfrageURL.abfrage()
+    abfrageURL.abfrage()
 
     ausgabe.liste()
 
